@@ -8,7 +8,8 @@
     "bootstrap": "4.6.0",
     "react": "16.13.1",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.0",
+    "sass": "^1.42.1"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
